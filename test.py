@@ -1,2 +1,9 @@
 print("hello world")
 print("hello dennis")
+
+x=5
+
+if x == 5:
+    print("x is 5")
+if x != 5:
+    print("x is not 5") 
